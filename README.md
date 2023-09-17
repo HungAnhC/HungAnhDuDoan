@@ -1,4 +1,10 @@
 # Số sinh viên thực hiện 3
+
+**Chức năng của mô hình**
+
+Dự án  này thực hiện việc đào tạo và đánh giá các mô hình học máy trên dữ liệu triệu chứng bệnh,
+sau đó sử dụng các mô hình này để dự đoán bệnh dựa trên các triệu chứng được cung cấp.
+
 **Lý do chọn đề tài**
 
 Sức khỏe con người là một vấn đề quan trọng và việc dự đoán bệnh một cách sớm có
